@@ -1,4 +1,10 @@
 ### Hi there 👋
+- 🔭 I’m currently working on education.
+- 🌱 I’m currently learning technology.
+- 👯 I’m looking to collaborate on software development.
+- 🤔 I’m looking for help with coaching tech.
+- 💬 Ask me about technology, marketing, science and so on.
+- 📫 How to reach me: humiyan02@gmail.com
 
 <!--
 **humiyan02/humiyan02** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
